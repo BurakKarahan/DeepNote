@@ -24,7 +24,7 @@ Android Not sharing platform.
 ```
 MIT License
 
-Copyright (c) 2021 FurkanOzkaya
+Copyright (c) 2020 Burak Karahan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
