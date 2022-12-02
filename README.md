@@ -1,25 +1,28 @@
-# DeepNote ~ Not Sharing Platform
-Android Not sharing platform.
+<h1 align="center"> DeepNote ~ Not Sharing Platform </h1>
+<h3 align="center"> Android Not sharing platform </h3>
 
-> Our very first project with Android.
+<hr>
+
+<p align="center">
+  <img src="./images/DeppNoteLogo.jpg" width="350" height="550"/>
+</p>
+
+<p align="center">
+  <img src="./images/DeepNoteHome.jpg" width="350" height="550"/>
+  <img src="./images/DeepNoteAyrinti.jpg" width="350" height="550"/>
+  <img src="./images/DeepNotePaylaşim.jpg" width="350" height="550"/>
+  <img src="./images/DeepNoteProfil.jpg" width="350" height="550"/>
+</p>
+
+<hr>
 
 | Core Contributors                                     |
 | ----------------------------------------------------- |
 | [Sinan Aktepe](https://github.com/sinan-aktepe)       |
-| [Burak Karahan](https://github.com/BurakKARAHAN)      |
+| [Burak Karahan](https://github.com/BurakKarahan)      |
 | [Arif Furkan Ozkaya](https://github.com/FurkanOzkaya) |
 
-
-
-![DeppNoteLogo](./images/DeppNoteLogo.jpg)![DeepNoteHome](./images/DeepNoteHome.jpg)
-
-![DeepNoteAyrinti](./images/DeepNoteAyrinti.jpg)
-
-![DeepNotePaylaşim](./images/DeepNotePaylaşim.jpg)
-
-![DeepNoteProfil](./images/DeepNoteProfil.jpg)
-
-
+<hr>
 
 ```
 MIT License
@@ -44,4 +47,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
